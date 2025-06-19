@@ -1,2 +1,2 @@
 # test_repo
-test re[po for AI trends 
+test re[mf]po for AI trends 
